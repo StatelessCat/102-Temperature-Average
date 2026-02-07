@@ -10,9 +10,14 @@ int drawable ic_launcher_foreground 0x0
 int id btnNext 0x0
 int id btnReset 0x0
 int id btnStartPause 0x0
+int id chartTemp 0x0
 int id root 0x0
+int id scroll 0x0
+int id spTempSource 0x0
 int id tvIndex 0x0
 int id tvPrime 0x0
+int id tvTempTitle 0x0
+int id tvTemps 0x0
 int id tvTitle 0x0
 int layout activity_main 0x0
 int mipmap ic_launcher 0x0

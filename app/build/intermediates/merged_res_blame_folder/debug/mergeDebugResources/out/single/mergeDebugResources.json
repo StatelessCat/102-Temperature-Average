@@ -36,6 +36,10 @@
         "source": "C:\\Users\\rapha\\.gradle\\daemon\\9.1.0\\com.example.a102.app-main-47:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
+        "merged": "C:\\Users\\rapha\\.gradle\\daemon\\9.1.0\\com.example.a102.app-debug-45:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\rapha\\.gradle\\daemon\\9.1.0\\com.example.a102.app-main-47:\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\Users\\rapha\\.gradle\\daemon\\9.1.0\\com.example.a102.app-debug-45:\\mipmap-mdpi_ic_launcher_round.webp.flat",
         "source": "C:\\Users\\rapha\\.gradle\\daemon\\9.1.0\\com.example.a102.app-main-47:\\mipmap-mdpi\\ic_launcher_round.webp"
     },

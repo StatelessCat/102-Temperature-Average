@@ -117,6 +117,7 @@ int id blocking 0x7f050028
 int id btnNext 0x7f050058
 int id btnReset 0x7f050059
 int id btnStartPause 0x7f05005a
+int id chartTemp 0x7f05005f
 int id chronometer 0x7f050029
 int id compose_view_saveable_id_tag 0x7f05002a
 int id consume_window_insets_tag 0x7f05002b
@@ -143,6 +144,8 @@ int id report_drawn 0x7f05003f
 int id right_icon 0x7f050040
 int id right_side 0x7f050041
 int id root 0x7f05005b
+int id scroll 0x7f050060
+int id spTempSource 0x7f050061
 int id tag_accessibility_actions 0x7f050042
 int id tag_accessibility_clickable_spans 0x7f050043
 int id tag_accessibility_heading 0x7f050044
@@ -162,6 +165,8 @@ int id time 0x7f050051
 int id title 0x7f050052
 int id tvIndex 0x7f05005c
 int id tvPrime 0x7f05005d
+int id tvTempTitle 0x7f050062
+int id tvTemps 0x7f050063
 int id tvTitle 0x7f05005e
 int id view_tree_lifecycle_owner 0x7f050053
 int id view_tree_on_back_pressed_dispatcher_owner 0x7f050054

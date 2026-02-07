@@ -11,9 +11,14 @@ drawable ic_launcher_foreground
 id btnNext
 id btnReset
 id btnStartPause
+id chartTemp
 id root
+id scroll
+id spTempSource
 id tvIndex
 id tvPrime
+id tvTempTitle
+id tvTemps
 id tvTitle
 layout activity_main
 mipmap ic_launcher
